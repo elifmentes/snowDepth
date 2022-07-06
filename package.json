@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "jquery": "^3.4.1",
-    "select2": "^4.0.13"
+    "select2": "^4.0.6"
   }
 }
